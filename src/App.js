@@ -1,10 +1,13 @@
 import "./App.css";
+import Weather from "./Weather";
 
 export default function App() {
   return (
     <div className="App">
-      {" "}
-      <h1>Weather App</h1>
+      <div className="container">
+        {" "}
+        <Weather />
+      </div>
       <footer>
         <a href="https://github.com/mariavmedeiros/weather-app-react.git">
           Open-source code

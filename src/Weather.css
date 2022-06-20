@@ -1,0 +1,21 @@
+.Weather {
+  margin-top: 10px;
+
+  border: 1px solid #dadde1;
+}
+.form-control {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.btn-primary {
+  margin-top: 10px;
+}
+li {
+  list-style-type: none;
+}
+h1 {
+  margin-left: 10px;
+}
+img {
+  margin-left: 25px;
+}
