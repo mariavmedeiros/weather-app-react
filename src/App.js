@@ -6,7 +6,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         {" "}
-        <Weather />
+        <Weather defaultCity="San Francisco" />
       </div>
       <footer>
         <a href="https://github.com/mariavmedeiros/weather-app-react.git">
