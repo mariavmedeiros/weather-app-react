@@ -23,9 +23,8 @@
   font-weight: 100;
   line-height: 20px;
 }
-.Weather img {
-  width: 64px;
-  height: 64px;
+.Weather canvas {
+  margin-top: 5px;
   margin-right: 10px;
   display: inline-block;
 }
@@ -51,4 +50,12 @@
 }
 .btn-primary {
   margin-top: 10px;
+}
+
+.col-6 {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+.float-left {
+  float: left !important;
 }
